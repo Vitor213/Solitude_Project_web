@@ -21,8 +21,9 @@ header > menu > ul > li > a{
     list-style: none;
     text-decoration: none;
     color: white;
-
-    
+}
+header > menu > ul > li > a:hover{
+    color: #f2e3d5c5;
 }
 body{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
